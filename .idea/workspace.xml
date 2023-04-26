@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0d96331-8863-45ce-91b6-a5bcc037f4c4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Frontend/biblioteka-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/biblioteka-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/biblioteka-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/biblioteka-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/biblioteka-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/biblioteka-app/src/components/App/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/biblioteka-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/biblioteka-app/src/components/App/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/biblioteka-app/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/biblioteka-app/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/biblioteka-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/biblioteka-app/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Frontend/biblioteka-app" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NbmNTsR3Vpv7qCXBLvAO0Nfu6U" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Manta/IdeaProjects/EMTLab/Frontend/biblioteka-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "10a99b331620c8d5db83f10d3dc50f1a",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manta\IdeaProjects\EMTLab\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EmtLabApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="EMTLab" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.emtlab.EmtLabApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0d96331-8863-45ce-91b6-a5bcc037f4c4" name="Changes" comment="" />
+      <created>1679941118821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679941118821</updated>
+      <workItem from="1679941118977" duration="14895000" />
+      <workItem from="1679956322656" duration="636000" />
+      <workItem from="1680124623702" duration="647000" />
+      <workItem from="1680270844026" duration="871000" />
+      <workItem from="1680633441442" duration="68000" />
+      <workItem from="1680634029123" duration="376000" />
+      <workItem from="1682452588217" duration="291000" />
+      <workItem from="1682458172895" duration="108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
