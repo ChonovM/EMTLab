@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d71696fa-6a81-4f0e-bccb-f30b37876918" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backend/src/main/java/com/example/emtlab/config/DataInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Backend/src/main/java/com/example/emtlab/config/DataInitializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Ow0Y3p4sPEXN2dZY69NmSA4g72" />
   <component name="ProjectViewState">
@@ -26,7 +29,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Manta/IdeaProjects/EMT/EMTLab/Frontend",
+    "last_opened_file_path": "C:/Users/Manta/IdeaProjects/EMT/EMTLab/Backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,6 +48,8 @@
       <updated>1682456380427</updated>
       <workItem from="1682456381573" duration="1124000" />
       <workItem from="1682553502498" duration="445000" />
+      <workItem from="1682557040463" duration="27000" />
+      <workItem from="1682557204567" duration="306000" />
     </task>
     <servers />
   </component>

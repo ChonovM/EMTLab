@@ -35,7 +35,7 @@ class Books extends React.Component{
                             </tr>
                             </thead>
                             <tbody>
-                                {books}
+                            {books}
                             </tbody>
                         </table>
                     </div>
@@ -57,8 +57,14 @@ class Books extends React.Component{
                             marginPagesDisplayed={2}
                             pageRangeDisplayed={5}
                             onPageChange={this.handlePageSwitch}
-                            containerClassName={"pagination m-4 justify-content-center"}
+                            containerClassName={"pagination pagination-lg m-4 justify-content-center"}
                             activeClassName={"active"}
+                            disabledClassName={"disabled"}
+                            previousClassName={"page-item"}
+                            nextClassName={"page-item"}
+                            previousLinkClassName={"page-link"}
+                            nextLinkClassName={"page-link"}
+                            pageLinkClassName={"page-link"}
                         />
                     </div>
                 </div>

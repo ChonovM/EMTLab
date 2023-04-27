@@ -43,6 +43,12 @@ public class DataInitializer {
         Author a3 = this.authorService.addAuthor(new Author("Hikaru", "Nakamura", c3));
 
         bookService.addBook("Dante's Inferno", Category.CLASSICS, a1.getId(), 132);
-        bookService.addBook("Mein Kampf", Category.CLASSICS, a3.getId(), 12);
+        bookService.addBook("Mein Kampf", Category.NOVEL, a3.getId(), 1123);
+        bookService.addBook("Da Vinci Code", Category.THRILER, a2.getId(), 531);
+        bookService.addBook("Fifty Shades of Grey", Category.DRAMA, a1.getId(), 435);
+        bookService.addBook("Twilight", Category.HISTORY, a2.getId(), 631);
+        bookService.addBook("Hannibal", Category.FANTASY, a3.getId(), 2);
+        bookService.addBook("Lord of The Rings", Category.BIOGRAPHY, a3.getId(), 5361);
+
     }
 }
