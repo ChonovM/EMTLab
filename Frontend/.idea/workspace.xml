@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d71696fa-6a81-4f0e-bccb-f30b37876918" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/biblioteka-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biblioteka-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/biblioteka-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/biblioteka-app" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2Ow0Y3p4sPEXN2dZY69NmSA4g72" />
   <component name="ProjectViewState">
@@ -23,7 +26,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Manta/IdeaProjects/EMTLab/Frontend/biblioteka-app",
+    "last_opened_file_path": "C:/Users/Manta/IdeaProjects/EMT/EMTLab/Frontend",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -37,6 +44,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682456380427</updated>
       <workItem from="1682456381573" duration="1124000" />
+      <workItem from="1682553502498" duration="445000" />
     </task>
     <servers />
   </component>
