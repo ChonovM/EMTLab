@@ -22,7 +22,7 @@ const BooksTerm = (props) => {
                    onClick={() => {
                        props.onRent(props.term.id);
                    }}
-                >Rent</a>
+                >Mark As Taken</a>
             </td>
         </tr>
     )
